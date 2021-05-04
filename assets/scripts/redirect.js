@@ -11,8 +11,6 @@ const languageSetSrc = `${githubFolder}/assets/lang/set.json`;
   const currentPath = window.location.pathname;
   const chosenLang = currentPath.slice(githubFolder.length + 1);
 
-  console.log(chosenLang);
-
   if (langSet.all.includes(chosenLang)) {
     redirect(chosenLang);
     return;
