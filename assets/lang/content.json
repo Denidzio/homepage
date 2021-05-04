@@ -19,7 +19,7 @@
 
     "intro": {
         "ua": "— Привіт! Я збираюсь стати JS Full-stack розробником і тому зараз пишу це резюме. Всі технології які будуть описані нижче — були справді мною опрацьовані та застосовані на практиці. Буду радий вашим порадам та зауваженням.",
-        "ru": "— Привет! Я собираюсь стать JS Full-stack разработчиком и поэтому сейчас пишу это резюме. Все технологии, которые буду описаны ниже — были действительно много обработаны и применены на практике. Буду рад вашим советам и замечаниям.",
+        "ru": "— Привет! Я собираюсь стать JS Full-stack разработчиком и поэтому сейчас пишу это резюме. Все технологии, которые буду описаны ниже — были действительно мною обработаны и применены на практике. Буду рад вашим советам и замечаниям.",
         "en": "— Hi! I'm going to be a JS Full-stack developer and so I'm writing this resume now. All the technologies that I will describe below — have really been much processed and applied in practice. I will be glad to your advice and remarks."
     },
 
@@ -198,7 +198,7 @@
     "timeline__2020_3": {
         "ua": "Вивчення JS",
         "ru": "Изучение JS",
-        "en": "Изучение JS"
+        "en": "Learning JS"
     },
     "timeline__2020_4": {
         "ua": "Почав вивчати PHP. Книга на 1000 сторінок",
@@ -275,5 +275,68 @@
         "ua": "Народився",
         "ru": "Родился",
         "en": "I was born"
+    },
+
+    "education__title": {
+        "ua": "Освіта",
+        "ru": "Образование",
+        "en": "Education"
+    },
+    "education__at": {
+        "ua": "в",
+        "ru": "в",
+        "en": "at"
+    },
+
+    "education__from": {
+        "ua": "",
+        "ru": "",
+        "en": "st"
+    },
+    "education__university_from-month": {
+        "ua": "вересня",
+        "ru": "сентября",
+        "en": "September"
+    },
+    "education__university_to-now": {
+        "ua": "зараз",
+        "ru": "сейчас",
+        "en": "now"
+    },
+    "education__university_student": {
+        "ua": "Студент",
+        "ru": "Студент",
+        "en": "Student"
+    },
+    "education__university_name": {
+        "ua": "Чернівецькому національному університеті ім. Ю. Федьковича. Факультет інженерії програмного забезпечення",
+        "ru": "Черновицком национальном университете им. Ю. Федьковича. Факультет инженерии програмного обеспечения",
+        "en": "Yuriy Fedkovych Chernivtsi National University. Faculty of Software Engineering"
+    },
+
+    "education__school_from": {
+        "ua": "вересня 2008",
+        "ru": "сентября 2008",
+        "en": "September 2008"
+    },
+    "education__school_to": {
+        "ua": "травня 2019",
+        "ru": "мая 2019",
+        "en": "May 2019"
+    },
+    "education__school_student": {
+        "ua": "Учень",
+        "ru": "Ученик",
+        "en": "Student"
+    },
+    "education__school_name": {
+        "ua": "Чернівецькій школі №5 з хіміко-біологічним напрямом",
+        "ru": "Черновицкой школе №5 с химико-биологическим направлением",
+        "en": "Chernivtsi School №5 with an emphasis on chemistry and biology"
+    },
+    "education__school_1": {
+        "ua": "Отримав золоту медаль",
+        "ru": "Получил золотую медаль",
+        "en": "Received a gold medal"
     }
 }

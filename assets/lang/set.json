@@ -1,4 +1,4 @@
 {
-    "default": "ua",
+    "default": "en",
     "all": ["ua", "ru", "en"]
 }
