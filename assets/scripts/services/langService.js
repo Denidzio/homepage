@@ -9,7 +9,7 @@ export function fillContent(lang, content, nodes) {
 
 export function redirect(lang) {
   window.localStorage.setItem('lang', lang);
-  window.location.href = githubFolder;
+  window.location.href = githubFolder || '/';
 }
 
 export function changeLang(lang, content, nodes) {
