@@ -1,10 +1,11 @@
 'use strict';
 
-import loadJSON from './services/jsonService.js';
+import { loadJSON } from './services/jsonService.js';
 import { changeLang } from './services/langService.js';
+import { githubFolder } from './global.js';
 
-const langContentSrc = '/assets/lang/content.json';
-const langSetSrc = '/assets/lang/set.json';
+const langContentSrc = `${githubFolder}/assets/lang/content.json`;
+const langSetSrc = `${githubFolder}/assets/lang/set.json`;
 
 (async () => {
   const [langContent, langSet] = await Promise.all([

@@ -1,13 +1,17 @@
 'use strict';
 
-import loadJSON from './services/jsonService.js';
+import { loadJSON } from './services/jsonService.js';
 import { redirect } from './services/langService.js';
+import { githubFolder } from './global.js';
 
-const languageSetSrc = '/assets/lang/set.json';
+const languageSetSrc = `${githubFolder}/assets/lang/set.json`;
 
 (async () => {
   const langSet = await loadJSON(languageSetSrc);
-  const chosenLang = window.location.pathname.slice(1);
+  const currentPath = window.location.pathname;
+  const chosenLang = currentPath.slice(githubFolder.length + 1);
+
+  console.log(chosenLang);
 
   if (langSet.all.includes(chosenLang)) {
     redirect(chosenLang);
