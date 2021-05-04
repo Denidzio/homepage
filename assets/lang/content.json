@@ -1,0 +1,279 @@
+{
+    "title": {
+        "ua": "Резюме",
+        "ru": "Резюме",
+        "en": "Resume"
+    },
+
+    "name": {
+        "ua": "Денис Лунгу",
+        "ru": "Денис Лунгу",
+        "en": "Denys Lunhu"
+    },
+
+    "job": {
+        "ua": "Людина року за версією журналу Times 2006 року",
+        "ru": "Человек года по версии журнала Times 2006 года",
+        "en": "2006 Times Magazine Person of the Year"
+    },
+
+    "intro": {
+        "ua": "— Привіт! Я збираюсь стати JS Full-stack розробником і тому зараз пишу це резюме. Всі технології які будуть описані нижче — були справді мною опрацьовані та застосовані на практиці. Буду радий вашим порадам та зауваженням.",
+        "ru": "— Привет! Я собираюсь стать JS Full-stack разработчиком и поэтому сейчас пишу это резюме. Все технологии, которые буду описаны ниже — были действительно много обработаны и применены на практике. Буду рад вашим советам и замечаниям.",
+        "en": "— Hi! I'm going to be a JS Full-stack developer and so I'm writing this resume now. All the technologies that I will describe below — have really been much processed and applied in practice. I will be glad to your advice and remarks."
+    },
+
+    "languages__title": {
+        "ua": "МОВИ",
+        "ru": "ЯЗЫКИ",
+        "en": "LANGUAGES"
+    },
+
+    "skills__title": {
+        "ua": "Навички",
+        "ru": "Умения",
+        "en": "Skills"
+    },
+
+    "hobby__title": {
+        "ua": "Хобі",
+        "ru": "Хобби",
+        "en": "Hobby"
+    },
+    "hobby_1": {
+        "ua": "МОТОЦИКЛИ",
+        "ru": "МОТОЦИКЛЫ",
+        "en": "MOTORCYCLES"
+    },
+    "hobby_2": {
+        "ua": "ЗВАРЮВАННЯ МЕТАЛУ",
+        "ru": "СВАРКА МЕТАЛЛА",
+        "en": "WELDING OF METAL"
+    },
+    "hobby_3": {
+        "ua": "ЗБІРКА КУБИКА РУБИКА",
+        "ru": "СБОРКА КУБИКА РУБИКА",
+        "en": "ASSEMBLING THE RUBIK CUBE"
+    },
+    "hobby_4": {
+        "ua": "КРИПТОВАЛЮТА",
+        "ru": "КРИПТОВАЛЮТА",
+        "en": "CRYPTOCURRENCY"
+    },
+
+    "like__title": {
+        "ua": "Люблю",
+        "ru": "Люблю",
+        "en": "Like"
+    },
+    "like_1": {
+        "ua": "АВТОМАТИЗУВАТИ ЗАДАЧІ",
+        "ru": "АВТОМАТИЗИРОВАТЬ ЗАДАЧИ",
+        "en": "AUTOMATE TASKS"
+    },
+    "like_2": {
+        "ua": "ВЧИТИСЬ НОВОМУ",
+        "ru": "УЧИТЬСЯ НОВОМУ",
+        "en": "LEARN SOMETHING NEW"
+    },
+
+    "dislike__title": {
+        "ua": "Не люблю",
+        "ru": "Не люблю",
+        "en": "Dislike"
+    },
+    "dislike_1": {
+        "ua": "БАГАТО ГОВОРИТИ",
+        "ru": "МНОГО ГОВОРИТЬ",
+        "en": "TALK A LOT"
+    },
+    "dislike_2": {
+        "ua": "СИДІТИ БЕЗ ДІЛА",
+        "ru": "СИДЕТЬ БЕЗ ДЕЛА",
+        "en": "SIT IN ONE'S HANDS"
+    },
+    "dislike_3": {
+        "ua": "ПИСАТИ КАПСОМ :)",
+        "ru": "ПИСАТЬ КАПСОМ :)",
+        "en": "WRITE IN CAPS :)"
+    },
+
+    "strengths__title": {
+        "ua": "Сильні сторони",
+        "ru": "Сильные стороны",
+        "en": "Strengths"
+    },
+    "strengths_1": {
+        "ua": "ЧЕСНІСТЬ",
+        "ru": "ЧЕСНОСТЬ",
+        "en": "HONESTY"
+    },
+    "strengths_2": {
+        "ua": "ДИСЦИПЛІНА",
+        "ru": "ДИСЦИПЛИНА",
+        "en": "DISCIPLINE"
+    },
+    "strengths_3": {
+        "ua": "САМОКРИТИЧНІСТЬ",
+        "ru": "САМОКРИТИЧНОСТЬ",
+        "en": "SELF-CRITICISM"
+    },
+
+    "timeline__title": {
+        "ua": "Досвід та особисте життя",
+        "ru": "Опыт и личная жизнь",
+        "en": "Experience and Personal life"
+    },
+
+    "timeline__now": {
+        "ua": "Зараз",
+        "ru": "Сейчас",
+        "en": "Now"
+    },
+
+    "timeline__all-time": {
+        "ua": "Увесь час",
+        "ru": "Всё время",
+        "en": "All time"
+    },
+
+    "timeline__start": {
+        "ua": "Початок року",
+        "ru": "Начало года",
+        "en": "The beginning of the year"
+    },
+    "timeline__middle": {
+        "ua": "Середина року",
+        "ru": "Середина года",
+        "en": "The middle of the year"
+    },
+    "timeline__end": {
+        "ua": "Кінець року",
+        "ru": "Конец года",
+        "en": "The end of the year"
+    },
+
+    "timeline__now_1": {
+        "ua": "Пишу курсовий проект на Java Spring Boot",
+        "ru": "Пишу курсовой проект на Java Spring Boot",
+        "en": "I'm writing a coursework using Java Spring Boot"
+    },
+    "timeline__now_2": {
+        "ua": "React/Redux",
+        "ru": "React/Redux",
+        "en": "React/Redux"
+    },
+    "timeline__now_3": {
+        "ua": "Binary Studio Academy",
+        "ru": "Binary Studio Academy",
+        "en": "Binary Studio Academy"
+    },
+
+    "timeline__2021__1": {
+        "ua": "Почав працювати з Node JS",
+        "ru": "Начал работать с Node JS",
+        "en": "Started working with Node JS"
+    },
+    "timeline__2021_2": {
+        "ua": "Парсинг. Pupperteer/Playwright",
+        "ru": "Парсинг. Pupperteer/Playwright",
+        "en": "Parsing. Pupperteer/Playwright"
+    },
+    "timeline__2021_3": {
+        "ua": "Telegraf JS",
+        "ru": "Telegraf JS",
+        "en": "Telegraf JS"
+    },
+
+    "timeline__2020_1": {
+        "ua": "Вивчення бази HTML та CSS",
+        "ru": "Изучение базы HTML и CSS",
+        "en": "Learning the basis of HTML & CSS"
+    },
+    "timeline__2020_2": {
+        "ua": "Курсовий проект на C++ (SFML)",
+        "ru": "Курсовой проект на C++ (SFML)",
+        "en": "Coursework using C++ (SFML)"
+    },
+    "timeline__2020_3": {
+        "ua": "Вивчення JS",
+        "ru": "Изучение JS",
+        "en": "Изучение JS"
+    },
+    "timeline__2020_4": {
+        "ua": "Почав вивчати PHP. Книга на 1000 сторінок",
+        "ru": "Начал изучать PHP. Книга на 1000 страниц",
+        "en": "Started learning PHP. 1000 pages book"
+    },
+    "timeline__2020_5": {
+        "ua": "Робота з базами даних",
+        "ru": "Работа с базами данных",
+        "en": "Working with databases"
+    },
+
+    "timeline__2019_1": {
+        "ua": "Поступив в університет",
+        "ru": "Поступил в университет",
+        "en": "Entered the university"
+    },
+    "timeline__2019_2": {
+        "ua": "Перша мова програмування C++",
+        "ru": "Первый язык программирования C++",
+        "en": "The first programming language C++"
+    },
+    "timeline__2019_3": {
+        "ua": "Купа задач на цикли та масиви",
+        "ru": "Куча задач на циклы и масивы",
+        "en": "A lot of tasks with loops and arrays"
+    },
+
+    "timeline__2014_1": {
+        "ua": "Старався розбирати Java та PHP код без розуміння що таке програмування",
+        "ru": "Старался разбирать Java и PHP код без понимания что такое программирование",
+        "en": "I tried to parse Java and PHP code without understanding what programming is"
+    },
+    "timeline__2014_2": {
+        "ua": "Розробляв сайти на DLE",
+        "ru": "Разрабатывал сайты на DLE",
+        "en": "I have developed websites using DLE"
+    },
+    "timeline__2014_3": {
+        "ua": "Розробляв дизайн для спільнот ВК",
+        "ru": "Разрабатывал дизайн для сообществ ВК",
+        "en": "I have designed the appearance of VK communities"
+    },
+
+    "timeline__2013_1": {
+        "ua": "Створив групу серверів Minecraft PE",
+        "ru": "Создал групу серверов Minecraft PE",
+        "en": "I created a couple of Minecraft PE servers"
+    },
+    "timeline__2013_2": {
+        "ua": "Адміністрування VPS",
+        "ru": "Администрирование VPS",
+        "en": "VPS administration"
+    },
+
+    "timeline__2011_1": {
+        "ua": "Почав цікавитись вебом",
+        "ru": "Начал интересоваться вебом",
+        "en": "Began to be interested in the web"
+    },
+    "timeline__2011_2": {
+        "ua": "uCoz",
+        "ru": "uCoz",
+        "en": "uCoz"
+    },
+
+    "timeline__2007_1": {
+        "ua": "З'явився комп'ютер",
+        "ru": "Появился компьютер",
+        "en": "I got my first computer"
+    },
+
+    "timeline__2002_1": {
+        "ua": "Народився",
+        "ru": "Родился",
+        "en": "I was born"
+    }
+}
