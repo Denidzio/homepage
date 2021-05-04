@@ -1,7 +1,10 @@
 import { githubFolder } from '../global.js';
 
 export function fillContent(lang, content, nodes) {
-  Array.from(nodes).forEach((value) => (value.textContent = content[value.dataset.lang][lang]));
+  Array.from(nodes).forEach((value) => {
+    console.log(value.dataset.lang);
+    value.textContent = content[value.dataset.lang][lang];
+  });
 }
 
 export function redirect(lang) {
